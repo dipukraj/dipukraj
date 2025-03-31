@@ -1,11 +1,18 @@
 ![logo](https://github.com/dipukraj/dipukraj4/blob/main/Github%20Banner.png)
-<h1 align="center">Hi 👋, I'm Dipu K Raj</h1>
+ <h1 align="center">Hi 👋, I'm Dipu K Raj</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400"src="https://github.com/user-attachments/assets/dc0de623-24b4-42bd-a828-63dc21441db5">
-
+![image](https://github.com/user-attachments/assets/6cea444f-352b-4fcd-a64f-fedf81f0fac2)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipukraj&label=Profile%20views&color=0e75b6&style=flat" alt="dipukraj" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipukraj" alt="dipukraj" /></a> </p>
+
+- 🌱 I’m currently learning **CSS**
+
+- 📝 I regularly write articles on [https://www.instagram.com/cine_sukoon?igsh=MWRreHRmeDFzbXM4Mw==](https://www.instagram.com/cine_sukoon?igsh=MWRreHRmeDFzbXM4Mw==)
+
+- 💬 Ask me about **Design**
 
 - 📫 How to reach me **kumar22ecegecv@gmail.com**
 
