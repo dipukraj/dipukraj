@@ -75,6 +75,6 @@
 
 
 
-<h3 style="font-family: 'Montserrat', sans-serif; font-weight: 900; color: #FFFFFF; margin: 20px 0;">
+<h3 style="font-family: 'Montserrat', sans-serif; font-weight: 900; color: #FFFFFF; margin: 20px 0; align="center">
     Made with ❤️ by Dipu K Raj 
   </h3>
