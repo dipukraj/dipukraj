@@ -48,3 +48,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=dipukraj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+<h2 style="font-family: 'Montserrat', sans-serif; font-weight: 900; color: #FFFFFF; margin: 20px 0;">
+    Made with ❤️ by Dipu K Raj 
+  </h2>
