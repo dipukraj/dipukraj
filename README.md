@@ -73,8 +73,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
+<div align="center">
 
-
-<h3 style="font-family: 'Montserrat', sans-serif; font-weight: 900; color: #FFFFFF; margin: 20px 0; align="center">
+<h3 style="font-family: 'Montserrat', sans-serif; font-weight: 900; color: #FFFFFF; margin: 20px 0;>
     Made with ❤️ by Dipu K Raj 
   </h3>
+</div>
