@@ -1,4 +1,4 @@
-![logo](https://github.com/dipukraj/dipukraj4/blob/main/Github%20Banner.png)
+![logo](https://github.com/dipukraj/dipukraj/blob/main/Github%20poster.jpg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
