@@ -107,5 +107,15 @@
     Made with ❤️ by ✨Dipu K Raj✨ 
   </h3>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
- 
+<div align="center"> 
+
+  <h3>Thanks for Visiting! <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="3%" >  </h3>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+   
+</div>
+
+
+
