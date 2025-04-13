@@ -63,7 +63,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dipukraj&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dipukraj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dipukraj&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![DIPUKRAJ most used programming language](https://github-readme-stats.vercel.app/api/top-langs/?username=DIPUKRAJ&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&show_icons=true&layout=compact)<br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
