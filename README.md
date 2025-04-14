@@ -61,7 +61,7 @@
 
 
 <p>
-    <a href="https://www.codewars.com/users/DIPUKRAJ">
+    <a href="https://www.codewars.com/users/dipukraj">
       <img src="https://github.r2v.ch/codewars?user=DIPUKRAJ&top_languages=true&theme=midnight_blue" width="500" alt="DIPUKRAJ"/>
     </a>
   </p> 
