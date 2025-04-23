@@ -61,7 +61,7 @@
 
 
 <p>
-    <a href="https://www.instagram.com/r.p.dipu/">
+    <a href="https://dipukraj.netlify.app/">
       <img src="https://github.r2v.ch/codewars?user=dipukraj&top_languages=true&theme=midnight_blue" width="500" alt="DIPUKRAJ"/>
     </a>
   </p> 
