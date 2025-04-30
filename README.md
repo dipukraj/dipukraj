@@ -31,11 +31,13 @@
 
  <h2 align="left">🧾 Overview About Me:-</h2>
 
-- 🌱 I’m currently learning **CSS**
+- 🌱 I’m currently learning  **Javascript**
 
-- 📝 I regularly write articles on [https://www.instagram.com/cine_sukoon?igsh=MWRreHRmeDFzbXM4Mw==](https://www.instagram.com/cine_sukoon?igsh=MWRreHRmeDFzbXM4Mw==)
+- 👤 My Portfolio Profile https://dipukraj.me
 
-- 💬 Ask me about **Design**
+- 📝 I regularly write articles on https://www.instagram.com/cine_sukoon
+
+- 💬 Ask me about **Graphics Design** & **Ask me anything about building websites – from idea to launch**
 
 - 📫 How to reach me **kumar22ecegecv@gmail.com**
 
