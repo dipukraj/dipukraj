@@ -31,17 +31,17 @@
 
  <h2 align="left">🧾 Overview About Me:-</h2>
 
-- 🌱 I’m currently learning  **Javascript**
+- 🌱 I’m currently learning - **JavaScript**
 
-- 👤 My Portfolio Profile https://dipukraj.me
+- 👤 My Portfolio Profile - https://dipukraj.me
 
-- 📝 I regularly write articles on https://www.instagram.com/cine_sukoon
+- 📝 I regularly write articles on - https://www.instagram.com/cine_sukoon
 
-- 💬 Ask me about **Graphics Design** & **Ask me anything about building websites – from idea to launch**
+- 💬 Ask me about - **Graphics Design** & **Ask me anything about building websites – from idea to launch**
 
-- 📫 How to reach me **kumar22ecegecv@gmail.com**
+- 📫 How to reach me - **kumar22ecegecv@gmail.com**
 
-- ⚡ Fun fact **I Think I am Funny**
+- ⚡ Fun fact - **I Think I am Funny**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
