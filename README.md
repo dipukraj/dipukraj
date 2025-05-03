@@ -35,7 +35,7 @@
 
 - 👤 My Portfolio Profile - https://dipukraj.me
 
-- 🤔 My recently completed projects are - [Hotel Website](https://thedeliousfastfood.netlify.app) & [ My Portfolio Website ](https://dipukraj.me) and [Professor Website](https://pradeepsir.netlify.app)
+- 🤔 My recently completed projects are - [Hotel Website](https://thedeliousfastfoods.netlify.app) & [ My Portfolio Website ](https://dipukraj.me) and [Professor Website](https://pradeepsir.netlify.app)
  
 - 📝 I regularly write articles on - https://www.instagram.com/cine_sukoon
 
