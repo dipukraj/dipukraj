@@ -33,7 +33,7 @@
 
 - 🔭 I’m currently working on - <strong>NTPC Limited</strong>
 
-- 🌱 I’m currently learning - **JavaScript**
+- 🌱 I’m currently learning - **MERN Stack Dev**
 
 - 👤 My Portfolio Profile - https://dipukraj.me
 
