@@ -71,7 +71,7 @@
 
 <p>
     <a href="https://dipukraj.me">
-      <img src="https://github.r2v.ch/codewars?user=dipukraj&top_languages=true&theme=midnight_blue" width="500" alt="PortFolio Website Dipu K Raj"/>
+      <img src="https://github.r2v.ch/codewars?user=dipukraj&top_languages=true&theme=midnight_blue" width="500" alt="PortFolio Website dipukraj.me"/>
     </a>
   </p> 
 
