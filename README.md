@@ -31,7 +31,7 @@
 
  <h2 align="left">🧾 Overview About Me:-</h2>
 
-- 🔭 I’m currently working on - <strong>NTPC Limited</strong>
+- 🔭 I’m currently working in - <strong>NTPC Limited</strong>
 
 - 🌱 I’m currently learning - **MERN Stack Dev**
 
