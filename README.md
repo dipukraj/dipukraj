@@ -35,7 +35,7 @@
 
 - 🌱 I’m currently learning - **MERN Stack Dev**
 
-- 👤 My Portfolio Profile - https://dipukraj.me
+- 👤 My Portfolio Profile - https://dipukraj.tech
 
 - 🤔 My recently completed projects are - [Music Player](https://musicaudioplayer.netlify.app/) & [Maths Puzzle Game](https://mpuzzle.netlify.app/) and [Jumping Game](https://edgesurf.netlify.app/) & [Racing Car](https://gamingcar.netlify.app/) & [ Snake Game]( https://gamesnak.netlify.app/) and [ Love Guru]( https://apnaloveguru.netlify.app/) & [ Planate, Solar System](https://planate.netlify.app/) & [ Age Calculate, agecounte]( https://agecounte.netlify.app/) & [ Tic Tac Toe Game]( https://crosdote.netlify.app/) & [ Calculator]( https://mathcount.netlify.app/)
  
