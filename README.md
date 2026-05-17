@@ -41,7 +41,7 @@
  
 - 📝 I regularly write articles on - https://apnaloveguru.netlify.app/
 
-- 👉 I regularly post tech-related reels - https://www.instagram.com/tech_nova_hub1
+- 👉 I regularly post tech-related reels - https://www.instagram.com/dailytechdipu
 
 - 💬 Ask me about - **Graphics Design** & **Ask me anything about building websites – from idea to launch**
 
