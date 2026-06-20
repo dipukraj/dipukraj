@@ -30,7 +30,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipukraj&label=Profile%20views&color=0e75b6&style=flat" alt="dipukraj" /> </p>
+<!-- Profile Metrics -->
+<div  align="center">
+    <img src="https://komarev.com/ghpvc/?username=dipukraj&color=FF6B00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    <a href="https://github.com/dipukraj?tab=followers">
+      <img src="https://custom-icon-badges.demolab.com/github/followers/dipukraj?style=for-the-badge&logo=github&color=C000FF&logoColor=white" alt="GitHub followers"/>
+   
+  </div>
+  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -80,8 +87,8 @@
 
 
 <p>
-    <a href="https://dipukraj.me">
-      <img src="https://github.r2v.ch/codewars?user=dipukraj&top_languages=true&theme=midnight_blue" width="500" alt="PortFolio Website:- dipukraj.me"/>
+    <a href="https://dipukraj.tech">
+      <img src="https://github.r2v.ch/codewars?user=dipukraj&top_languages=true&theme=midnight_blue" width="500" alt="PortFolio Website:- dipukraj.tech"/>
     </a>
   </p> 
 
@@ -89,8 +96,22 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dipukraj&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+ 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dipukraj&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1C2526&title_color=FFD700&icon_color=1E90FF&text_color=D3D3D3" alt="GitHub Stats" />
+
+ 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dipukraj&theme=gruvbox&hide_border=true&background=1C2526&stroke=FFD700&ring=1E90FF&fire=FFD700" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipukraj&theme=react-dark&bg_color=1C2526&color=D3D3D3&line=1E90FF&point=FFD700" alt="Contribution Graph" width="97%" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ![](https://nirzak-streak-stats.vercel.app/?user=dipukraj&theme=dark&hide_border=false)<br/>
+
+# 💻 My Skills:
 ![DIPUKRAJ most used programming language](https://github-readme-stats.vercel.app/api/top-langs/?username=dipukraj&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&show_icons=true&layout=compact)
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -99,9 +120,6 @@
 <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-![DIPUKRAJ github activity graph](https://github-readme-activity-graph.vercel.app//graph?username=DIPUKRAJ&custom_title=DIPUKRAJ's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
