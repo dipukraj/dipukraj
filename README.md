@@ -96,10 +96,8 @@
 
 
 # 📊 GitHub Stats:
- 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dipukraj&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1C2526&title_color=FFD700&icon_color=1E90FF&text_color=D3D3D3" alt="GitHub Stats" />
 
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dipukraj&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1C2526&title_color=FFD700&icon_color=1E90FF&text_color=D3D3D3" alt="GitHub Stats" />
  
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dipukraj&theme=gruvbox&hide_border=true&background=1C2526&stroke=FFD700&ring=1E90FF&fire=FFD700" alt="GitHub Streak" />
 </p>
@@ -111,7 +109,7 @@
 
 
 # 💻 My Skills:
-![DIPUKRAJ most used programming language](https://github-readme-stats.vercel.app/api/top-langs/?username=dipukraj&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&show_icons=true&layout=compact)
+ ![DIPUKRAJ most used programming language](https://github-readme-stats.vercel.app/api/top-langs/?username=dipukraj&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&show_icons=true&layout=compact)
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
